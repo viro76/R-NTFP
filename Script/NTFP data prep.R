@@ -20,8 +20,8 @@ library(ez)
 library(GGally)
 
 # Add multiplot script from source
-source(file = "C:/Users/Vincent Roth/Documents/R/Scripts/17_Functions/multiplot.R")
-source(file = "C:/Users/Vincent Roth/Documents/R/Scripts/17_Functions/panel_cor.R")
+source(file = "local/Documents/R/Scripts/17_Functions/multiplot.R")
+source(file = "local/Documents/R/Scripts/17_Functions/panel_cor.R")
 # source(file = "C:/Users/Vincent Roth/Documents/R/Scripts/17_Functions/ggcorplot.R")
 
 # set the working directory
